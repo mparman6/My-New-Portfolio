@@ -1,1 +1,1 @@
-<?php include ("portfolio2.html") ?>
+<?php require ("portfolio2.html") ?>
