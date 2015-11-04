@@ -9,7 +9,6 @@
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 20px;
     line-height:30px;
-    background-color: #ADC42B;
     height:300px;
     width:100px;
     float:left;
@@ -34,9 +33,22 @@
 a {
     padding-top:10px;
     padding-bottom: 10px;
+    color:  #00FF00;
 }
 
 article {
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-color: green;
+}
+
+img {
+  position: absolute;
+  right: 200px;
+  top: 200px;
+}
+
+form  {
+  text-align: center;
+  font-size: 15px;
+  color: #00FF00;
 }
